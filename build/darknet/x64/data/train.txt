@@ -1,0 +1,11 @@
+data/kitti/pos-1.jpg
+data/kitti/pos-12.jpg
+data/kitti/pos-13.jpg
+data/kitti/pos-14.jpg
+data/kitti/pos-15.jpg
+data/kitti/pos-16.jpg
+data/kitti/pos-17.jpg
+data/kitti/pos-18.jpg
+data/kitti/pos-19.jpg
+data/kitti/pos-20.jpg
+data/kitti/pos-21.jpg
